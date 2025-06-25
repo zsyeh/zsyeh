@@ -1,21 +1,28 @@
-# A Reluctant Product of the Educational Machine, Now Forging My Own Path 🚀
+### Hi there 👋
 
-Despite the constraints of a system I found limiting 😩, I've carved a niche in a **diverse range of compelling technologies**. My journey encompasses practical experience across the stack, from the intricate dance of **PX4 drones** 🚁 to the dynamic landscape of **web development** 🌐 and the critical domain of **network security** 🛡️.
+I'm a passionate developer forging my own path from the world of embedded systems to a diverse range of compelling technologies. I am currently looking for opportunities! 🚀
 
-I possess a solid foundation in **embedded systems** ⚙️ and have delved into the fascinating worlds of **SLAM** 🗺️, **operating system kernel development** 💻, and **FPGA programming** 💡. My experience extends beyond theoretical understanding, with **tangible exposure to production environments** 🏢.
+---
 
-My primary coding languages are **Python** 🐍 and **C/C++** 👨‍💻, which I leverage extensively. While proficient, my experience with **JavaScript** , **PHP** , and **Kotlin** 📱 is more limited.
+### 🔭 Interests
+- Embedded Systems & **PX4 drones** 🚁
+- Simultaneous Localization and Mapping (**SLAM**) 🗺️
+- **Operating System Kernel** Development 💻
+- **Network Security** 🛡️
+- **FPGA** Programming 💡
+- **Web Development** 🌐
 
+### 🛠️ Programming Skills
+- **Primary Languages:** `C/C++`, `Python` 🐍
+- **Limited Experience:** `JavaScript`, `PHP`, `Kotlin` 📱
+
+### 💪 Beyond the Code
+- A fervent enthusiast of all things **electronic** 💡 and  full user
+- My physical regimen is demanding and rewarding, including:
+  - Running 🏃‍♂️ & Cycling 🚴
+  - Combat Sports 🥊
+  - Arm Wrestling & Powerlifting 🏋️‍♂️
+  - Swimming 🏊‍♂️
+
+---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsyeh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-Beyond the digital realm, I am a **fervent enthusiast of all things electronic** 💡, proudly aligning myself with the **Apple ecosystem** 🍎. I also maintain an active and demanding physical regimen, finding joy in:
-
-* **Running** 🏃‍♂️
-* The discipline of **combat sports** 🥊
-* The raw power of **arm wrestling** 💪
-* And **powerlifting** 🏋️‍♂️
-* The freedom of **cycling** 🚴
-* The fluidity of **swimming** 🏊‍♂️
-
-My **training experience is substantial** 💪 and informs my approach to challenges both technical and physical.
