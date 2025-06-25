@@ -6,7 +6,7 @@ I possess a solid foundation in **embedded systems** ⚙️ and have delved into
 
 My primary coding languages are **Python** 🐍 and **C/C++** 👨‍💻, which I leverage extensively. While proficient, my experience with **JavaScript** , **PHP** , and **Kotlin** 📱 is more limited.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsyeh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Beyond the digital realm, I am a **fervent enthusiast of all things electronic** 💡, proudly aligning myself with the **Apple ecosystem** 🍎. I also maintain an active and demanding physical regimen, finding joy in:
