@@ -1,6 +1,6 @@
 ## 您好,这是我的主页,我是一个全栈个人开发者
-- 我熟悉web开发 前端+后端+服务端 我目前在维护着两个10k人数小体量的生产环境 (vue/springboot/django/nginx/GraphQL/Docker/k8s/kafka//RabbitMQ/PostageSQL/RabbitMQ)
-- 我熟悉嵌入式开发 我可以调试嵌入式设备的,可以将需求落地到产品
+- 我熟悉web开发 前端+后端+服务端 我目前在维护着两个10k人数小体量的生产环境 (vue/springboot/django/nginx/GraphQL/Docker/k8s/kafka/RabbitMQ/PostageSQL/RabbitMQ)
+- 我熟悉嵌入式开发 我可以调试嵌入式设备的,可以将需求落地到产品(RTOS(freeRTOS/Nuxxt)/Cortex-Mx(f4 h7...)/Cortex-Ax(rk3588 t113 7z020)//cpp&upy&c//keil&cubeMX&ESP-IDF&FPGA(vivado/vitis)&///Zigbee&LoRa&MQTT&CoAP///)
 
 ### Hi there 👋
 
