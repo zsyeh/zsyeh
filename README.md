@@ -1,37 +1,19 @@
-## 您好,这是我的主页,我是一个全栈个人开发者
-- 我熟悉web开发 前端+后端+服务端 我目前在维护着两个10k人数小体量的生产环境 (vue/springboot/django/nginx/GraphQL/Docker/k8s/kafka/RabbitMQ/PostageSQL/RabbitMQ)
-- 我熟悉嵌入式开发 我可以调试嵌入式设备的,可以将需求落地到产品(RTOS(freeRTOS/Nuxxt)/Cortex-Mx(f4 h7...)/Cortex-Ax(rk3588 t113 7z020)//cpp&upy&c//keil&cubeMX&ESP-IDF&FPGA(vivado/vitis)&///Zigbee&LoRa&MQTT&CoAP///)
 
-### Hi there 👋
+## 您好，这是我的主页，我是一名全栈个人开发者
 
-I'm a passionate developer forging my own path from the world of embedded systems to a diverse range of compelling technologies. I am currently looking for opportunities! 🚀
+* 我熟悉 **Web 全栈开发**（前端 + 后端 + 服务端），目前在维护两个约10k人数体量的小型oa/oj生产环境， **Vue、Spring Boot、Django、Nginx、GraphQL、Docker、k8s、Kafka、RabbitMQ、PostgreSQL** 。
+* 我具备 **嵌入式开发经验**，能够调试设备并将需求落地为产品，熟悉 **RTOS（FreeRTOS、NuttX）、Cortex-M （F4/H7）、Cortex-A （RK3588、T113、Zynq-7020）、C/C++/MicroPython、Keil、CubeMX、ESP-IDF、FPGA（Vivado/Vitis）**， **Zigbee、LoRa、MQTT、CoAP** 
+* 我熟悉 **操作系统原理与实践**，熟悉 **内核、驱动、内存与进程管理** ..
+* 我熟悉 **ROS1/ROS2**，机器人/无人机开发， **PX4、UAV/UHV、SLAM（VINS、LIO、LIVO）、Nav（MoveBase、Nav2）、ROS+Qt ** 。
 
 ---
 
-### 🔭 Interests
-- Embedded Systems & **PX4 drones** 🚁
-- Simultaneous Localization and Mapping (**SLAM**) 🗺️ for vins and lio
-- **Operating System Kernel** Development 💻  I have a self writing kernel.
-- **Network Security** 🛡️
-- **FPGA** Programming 💡
-- **Web Development** 🌐 just for business logic implementation hahahh
+## Hello, this is my homepage. I am a full-stack individual developer
 
-### 🛠️ Programming Skills
-- **Primary Languages:** `C/C++`, `Python` 🐍
-- **Limited Experience:** `JavaScript`, `PHP`, `Kotlin` 📱
+* I am proficient in **web full-stack development** (frontend + backend + server-side) and currently maintain two production environments with around **10k active users**, working with technologies such as **Vue, Spring Boot, Django, Nginx, GraphQL, Docker, Kubernetes, Kafka, RabbitMQ, and PostgreSQL**.
+* I have solid **embedded development experience**, capable of debugging devices and turning requirements into real products, with skills in **RTOS (FreeRTOS, NuttX), Cortex-M series (F4/H7), Cortex-A series (RK3588, T113, Zynq-7020), C/C++/MicroPython, Keil, CubeMX, ESP-IDF, FPGA (Vivado/Vitis)**, as well as communication protocols like **Zigbee, LoRa, MQTT, and CoAP**.
+* I am familiar with **operating system principles and practices**, including **kernel, drivers, memory, and process management**.
+* I am experienced with **ROS1/ROS2**, especially in robotics and UAV development, covering **PX4, UAV/UHV, SLAM (VINS, LIO, LIVO), navigation (MoveBase, Nav2), and ROS+Qt visualization tools**.
 
-### 💪 Beyond the Code
-- A fervent enthusiast of all things **electronic** 💡 and  full user
-- My physical regimen is demanding and rewarding, including:
-  - Running 🏃‍♂️ & Cycling 🚴
-  - Combat Sports 🥊
-  - Arm Wrestling & Powerlifting 🏋️‍♂️
-  - Swimming 🏊‍♂️
-
-### Work Experience
-- 2024-now Operations and Maintenance for oj(php based) in less-known company
-- 2025-now Project Manager,Developer,Tester at a uav company
-- 2023-now I've been working on various freelance projects from both educational institutions and corporations.
-  I'm actively looking for better opportunities.
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsyeh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
