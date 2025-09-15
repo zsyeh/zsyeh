@@ -4,7 +4,7 @@
 * 我熟悉 **Web 全栈开发**（前端 + 后端 + 服务端），目前在维护两个约10k人数体量的小型oa/oj生产环境， **Vue、Spring Boot、Django、Nginx、GraphQL、Docker、k8s、Kafka、RabbitMQ、PostgreSQL** 。
 * 我具备 **嵌入式开发经验**，能够调试设备并将需求落地为产品，熟悉 **RTOS（FreeRTOS、NuttX）、Cortex-M （F4/H7）、Cortex-A （RK3588、T113、Zynq-7020）、C/C++/MicroPython、Keil、CubeMX、ESP-IDF、FPGA（Vivado/Vitis）**， **Zigbee、LoRa、MQTT、CoAP** 
 * 我熟悉 **操作系统原理与实践**，熟悉 **内核、驱动、内存与进程管理** ..
-* 我熟悉 **ROS1/ROS2**，机器人/无人机开发， **PX4、UAV/UHV、SLAM（VINS、LIO、LIVO）、Nav（MoveBase、Nav2）、ROS+Qt ** 。
+* 我熟悉 **ROS1/ROS2**，机器人/无人机开发， ** PX4、UAV/UHV、SLAM（VINS、LIO、LIVO）、Nav（MoveBase、Nav2）、ROS+Qt  **。
 
 ---
 
