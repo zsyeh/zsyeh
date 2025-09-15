@@ -1,3 +1,7 @@
+## 您好,这是我的主页,我是一个全栈个人开发者
+- 我熟悉web开发 前端+后端+服务端 我目前在维护着两个10k人数小体量的生产环境 (vue/springboot/django/nginx/GraphQL/Docker/k8s/kafka//RabbitMQ/PostageSQL/RabbitMQ)
+- 我熟悉嵌入式开发 我可以调试嵌入式设备的,可以将需求落地到产品
+
 ### Hi there 👋
 
 I'm a passionate developer forging my own path from the world of embedded systems to a diverse range of compelling technologies. I am currently looking for opportunities! 🚀
