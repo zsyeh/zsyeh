@@ -1,7 +1,7 @@
 
 ## 您好，这是我的主页，我是一名全栈个人开发者
-
-* 我熟悉 **Web 全栈开发**（前端 + 后端 + 服务端），目前在维护两个约10k人数体量的小型oa/oj生产环境， **Vue、Spring Boot、Django、Nginx、GraphQL、Docker、k8s、Kafka、RabbitMQ、PostgreSQL** 。
+以下为我的技术栈简述，并提供少量的关键词便于检索，不代表全部，如果您想要聊一聊（聊什么都行），请mail我，感谢您的关注
+* 我熟悉 **Web 全栈开发**（前端 + 后端 + 服务端），目前在维护两个约10k人数体量的小型oa/oj生产环境（商业生产环境不能完全开源请谅解）， **Vue、Spring Boot、Django、Nginx、GraphQL、Docker、k8s、Kafka、RabbitMQ、PostgreSQL** 。
 * 我具备 **嵌入式开发经验**，能够调试设备并将需求落地为产品，熟悉 **RTOS（FreeRTOS、NuttX）、Cortex-M （F4/H7）、Cortex-A （RK3588、T113、Zynq-7020）、C/C++/MicroPython、Keil、CubeMX、ESP-IDF、FPGA（Vivado/Vitis）**， **Zigbee、LoRa、MQTT、CoAP** 
 * 我熟悉 **操作系统原理与实践**，熟悉 **内核、驱动、内存与进程管理** ..
 * 我熟悉 **ROS1/ROS2**，机器人/无人机开发， **PX4UAV/UHV**、**SLAM（VINS、LIO、LIVO** **Nav（MoveBase、Nav2）ROS+Qt**  。
